@@ -67,7 +67,7 @@ main {
   max-width: 1024px;
   width: 100%;
   margin: 0 auto;
-  padding: 100px 40px 20px;
+  padding: 100px 20px 20px;
   box-sizing: border-box;
 }
 
@@ -148,6 +148,10 @@ main > section > h2 {
   main > section > h2,
   .contentContainer {
     max-width: 700px;
+  }
+
+  main {
+    padding: 100px 40px 20px;
   }
 
   .storeLinks {
